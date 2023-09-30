@@ -1,6 +1,6 @@
 fun main() {
     println("Введите строку: ")
-    val str=readln().toString()
+    val str=readln()
     var result=""
     var amount=1
     var symbol=str[0]
